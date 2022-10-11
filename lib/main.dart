@@ -34,6 +34,7 @@ class MyApp extends StatelessWidget {
       child: Icon(Icons.account_circle_rounded, color: Colors.red),
       backgroundColor: Colors.black12,
             //git için test yorumu
+            // git için ikinci test yorumu
     ),)
     ,
     );
